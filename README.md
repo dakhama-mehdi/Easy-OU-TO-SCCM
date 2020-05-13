@@ -1,9 +1,7 @@
 # Easy-OU-TO-SCCM
 Easy creat collection SCCM based on OU
 
--![Sample Gif](http://i.imgur.com/SCCM-TO-OU.gif)
-+<img src="/art/sample.gif?raw=true" width="200px">
-
+![SCCM-TO-OU](https://user-images.githubusercontent.com/49924401/81846370-44105780-9552-11ea-867f-95c487270f6a.gif)
 
 About : 
 Easy-SCCM-TO-OU : Is a free tool for Microsoft users, developped by DAKHAMA MEHDI.
