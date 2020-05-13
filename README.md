@@ -32,7 +32,6 @@ Click File => Select File => and chose the file, by default hi is in
 Import The OU :
 select the OU in graphical panel, and click Create User or Device, you can also change refresh interval.
 
-
 All your Feedback is welcome.
 Thanks,
 Best Regards,
