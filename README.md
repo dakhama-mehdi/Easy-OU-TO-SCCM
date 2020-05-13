@@ -9,3 +9,5 @@ This tool help you to create collections based on organizational units in Active
 This tool permit to ease work and savec a lot of time.
 
 # prerequisite
+-Install module Active-Directory (for server or RSAT for client post)
+-
