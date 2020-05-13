@@ -1,9 +1,7 @@
 # Easy-OU-TO-SCCM
-![Alt Text](https://ivellath.sirv.com/SCCM-TO-OU.gif)
-
 Easy creat collection SCCM based on OU
 
-
+![Alt Text](https://ivellath.sirv.com/SCCM-TO-OU.gif)
 
 About : 
 Easy-SCCM-TO-OU : Is a free tool for Microsoft users, developped by DAKHAMA MEHDI.
