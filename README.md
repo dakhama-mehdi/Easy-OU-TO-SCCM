@@ -15,3 +15,9 @@ have the SCCM console installed on the post (Or import file configurationmanager
 
 # HOW TO USE 
 
+Open the file .Exe with admin priviliege, if you have two module en red, (Module-AD and Check-PSD1) install it and refresh
+
+to install MODULE-AD :
+
+- On Windows Server
+enter this command on powershell : Install-windowsfeature rsat-ad-powershell #(that will take 10 secondes)
