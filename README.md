@@ -21,3 +21,19 @@ to install MODULE-AD :
 
 - On Windows Server
 enter this command on powershell : Install-windowsfeature rsat-ad-powershell #(that will take 10 secondes)
+- On Windwos 10 : 
+Install the Rsat tool, if not done yet.
+
+to install module Configurationamanger :
+
+Click File => Select File => and chose the file, by default hi is in 
+"c:\program files(x86)\Microsoft Configuration Manager\AdminConsole\Bin\ConfigurationManager"
+
+Import The OU :
+select the OU in graphical panel, and click Create User or Device, you can also change refresh interval.
+
+
+All your Feedback is welcome.
+Thanks,
+Best Regards,
+
