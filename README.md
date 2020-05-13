@@ -8,6 +8,10 @@ Easy-SCCM-TO-OU : Is a free tool for Microsoft users, developped by DAKHAMA MEHD
 This tool help you to create collections based on organizational units in Active Directory, for deploy applications and packages for specific users and devices.
 This tool permit to ease work and savec a lot of time.
 
-# prerequisite
--Install module Active-Directory (for server or RSAT for client post)
--
+# PREREQUISITE 
+
+Install module Active-Directory (for server or RSAT for client post)
+have the SCCM console installed on the post (Or import file configurationmanager.psd1)
+
+# HOW TO USE 
+
