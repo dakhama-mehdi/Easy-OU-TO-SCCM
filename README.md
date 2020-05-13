@@ -1,5 +1,5 @@
 # Easy-OU-TO-SCCM
-Easy creat collection SCCM based on OU
+Easy create collection SCCM based on OU
 
 ![SCCM-TO-OU](https://user-images.githubusercontent.com/49924401/81846370-44105780-9552-11ea-867f-95c487270f6a.gif)
 
