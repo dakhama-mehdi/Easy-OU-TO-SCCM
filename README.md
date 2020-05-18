@@ -3,6 +3,9 @@ Easy create collection SCCM based on OU
 
 ![SCCM-TO-OU](https://user-images.githubusercontent.com/49924401/81846370-44105780-9552-11ea-867f-95c487270f6a.gif)
 
+# News in Version 2 
+You can choose the limiting collection for device collection.
+
 About : 
 Easy-SCCM-TO-OU : Is a free tool for Microsoft users, developped by DAKHAMA MEHDI.
 This tool help you to create collections based on organizational units in Active Directory, for deploy applications and packages for specific users and devices.
