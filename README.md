@@ -3,6 +3,10 @@ Easy create collection SCCM based on OU
 
 ![SCCM-TO-OU](https://user-images.githubusercontent.com/49924401/81846370-44105780-9552-11ea-867f-95c487270f6a.gif)
 
+# News in Version 3
+
+You can enter the specific name for collection, or leave defaut name OU.
+
 # News in Version 2 
 You can choose the limiting collection for device collection.
 
